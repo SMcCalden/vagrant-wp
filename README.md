@@ -1,6 +1,4 @@
-# Vagrant WordPress Theme Base
-
-by Mike Green
+# Vagrant WordPress Example
 
 ## Setup
 
