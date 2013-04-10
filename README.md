@@ -1,4 +1,4 @@
-# Vagrant WordPress Example
+# SMcC Vagrant WordPress Example
 
 ## Setup
 
